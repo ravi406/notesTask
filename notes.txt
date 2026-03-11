@@ -1,4 +1,6 @@
 Project Notes:
-Dev1 :Added first note
+Dev1 :Added first notes 
 
 new_dev : first note added.
+
+dev2: new notes added.
